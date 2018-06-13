@@ -1,3 +1,7 @@
+'''
+知乎改版，已不可用
+'''
+
 import requests,time
 from bs4 import BeautifulSoup
 url = 'https://www.zhihu.com/login/email'
